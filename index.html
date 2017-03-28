@@ -4,7 +4,7 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-		<title>reveal.js</title>
+		<title>Reveal.js + markdown</title>
 
 		<link rel="stylesheet" href="bower_components/reveal.js/css/reveal.css">
 		<link rel="stylesheet" href="bower_components/reveal.js/css/theme/moon.css">
@@ -21,14 +21,18 @@
 
 		</style>
 
+		<!-- Custom styling for cool script -->
+		<link rel="stylesheet" type="text/css" href="cool_assets/cool.css">
+
 	</head>
 	<body>
 		<div class="reveal">
 			<div class="slides">
-				<section data-markdown="presentation.md" data-separator="\n\n\n" data-separator-vertical="\n\n" data-separator-notes="^Note:" data-charset="utf-8"></section>
+				<section data-markdown="presentation.md" data-separator="^---" data-separator-vertical="^--" data-separator-notes="^Note:" data-charset="utf-8"></section>
 			</div>
 		</div>
 
+		<script src="bower_components/jquery/dist/jquery.js"></script>
 		<script src="bower_components/reveal.js/lib/js/head.min.js"></script>
 		<script src="bower_components/reveal.js/js/reveal.js"></script>
 
@@ -36,6 +40,8 @@
 			// More info https://github.com/hakimel/reveal.js#configuration
 			Reveal.initialize({
 				history: true,
+				width: 1366,
+				height: 768,
 
 				// More info https://github.com/hakimel/reveal.js#dependencies
 				dependencies: [
@@ -46,5 +52,6 @@
 				]
 			});
 		</script>
+		<script type="text/javascript" src="cool_assets/cool.js"></script>
 	</body>
 </html>

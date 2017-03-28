@@ -2,6 +2,7 @@
   "name": "placeholer",
   "private": true,
   "dependencies": {
-    "reveal.js": "^3.4.1"
+    "reveal.js": "^3.4.1",
+    "jquery": "^3.2.1"
   }
 }
