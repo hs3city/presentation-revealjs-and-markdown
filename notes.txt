@@ -1,0 +1,40 @@
+Note:
+Historia o tym jak to dalej jestem "biszkoptem"
+
+- Czy wszyscy mają połączenie z netem w tym momencie?
+Paczki NPM ;)
+
+Note:
+- Język znaczników
+- John Gruber i Aaron Swartz
+- Na otwartej licencji BSD
+Kto zna? Kto używa?
+
+Note:
+- HTML jest fajny do tworzenia dokumentów,
+- Pisanie czegokolwiek w HTMLu jest bardzo powolne,
+- Zamykanie tagów :C
+
+Note:
+- Hugo / Jekyll wspieraja markdown
+- Wyrenderowany html można odpalić w każdej przeglądarce
+- Notatki są ładniejsze, niż .txt i mają strukturę
+
+Note:
+Np. _ zamiast *
+
+Note:
+Np. + albo * zamiast -
+
+Note:
+
+- 1.0.0 w Grudniu 2011
+- Szwed, Hakim El Hattab
+- Na wolnej licencji MIT
+
+Note:
+
+- Addy Osmani
+- 1.0.0 w Sierpniu 2013
+- Wolna licencja BSD
+
