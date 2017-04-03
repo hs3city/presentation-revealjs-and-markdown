@@ -2,31 +2,14 @@
 ## Czyli jak szybko tworzyć ładne prezentacje
 **by Olgierd &#34;Allgreed&#34; Kasprowicz**
 
-Note:
-Historia o tym jak to dalej jestem "biszkoptem"
-
-- Czy wszyscy mają połączenie z netem w tym momencie?
-Paczki NPM ;)
-
 ---
 
 # Podstawy markdown
-
-Note:
-- Język znaczników
-- John Gruber i Aaron Swartz
-- Na otwartej licencji BSD
-Kto zna? Kto używa?
 
 ---
 
 ## Idea
 **Szybki w zapisie język kompilowalny do HTMLa**
-
-Note:
-- HTML jest fajny do tworzenia dokumentów,
-- Pisanie czegokolwiek w HTMLu jest bardzo powolne,
-- Zamykanie tagów :C
 
 ---
 
@@ -36,11 +19,6 @@ Note:
 + Posty na bloga
 
 **I wieeeeele innych...**
-
-Note:
-- Hugo / Jekyll wspieraja markdown
-- Wyrenderowany html można odpalić w każdej przeglądarce
-- Notatki są ładniejsze, niż .txt i mają strukturę
 
 ---
 
@@ -80,9 +58,6 @@ To je *pochyłe*, a to je **tłuste**.
 
 ##### Są inne notacje, które dają ten sam efekt
 
-Note:
-Np. _ zamiast *
-
 --
 
 ### Tytuły
@@ -117,9 +92,6 @@ Np. _ zamiast *
 ```
 
 ##### Są inne notacje, które dają ten sam efekt
-
-Note:
-Np. + albo * zamiast -
 
 --
 
@@ -204,12 +176,6 @@ Przykładowy [link](http://lmgtfy.com/)
 
 # Reveal.js
 ## The HTML Presentation Framework
-
-Note:
-
-- 1.0.0 w Grudniu 2011
-- Szwed, Hakim El Hattab
-- Na wolnej licencji MIT
 
 ---
 
@@ -355,12 +321,6 @@ Zwykła podmiana pliku .css w 4tej linijce
 # Yo to the rescue!
 ![](img/yo.png)
 
-Note:
-
-- Addy Osmani
-- 1.0.0 w Sierpniu 2013
-- Wolna licencja BSD
-
 ---
 
 ## Tooling
@@ -395,10 +355,6 @@ Note:
 	});
 ```
 
-Note:
-
-# Wyłącz speaker notes!!!
-
 --
 
 ## Dyrektywy w pliku presentation.md
@@ -410,9 +366,6 @@ np.
 	<!-- .slide: data-transition="fade" -->
 ```
 <!-- .slide: data-transition="fade" -->
-
-Note:
-# Wyłącz speker notes teraz!!!
 
 --
 
