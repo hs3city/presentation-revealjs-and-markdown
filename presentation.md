@@ -436,5 +436,3 @@ Note:
 ---
 
 # The End
-
-<!-- Światło HSowe napierdala ruską dyskotekę -->
