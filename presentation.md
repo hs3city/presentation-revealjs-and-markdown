@@ -233,7 +233,7 @@ Przykładowy [link](http://lmgtfy.com/)
 ```
 
 ```bash
-	$ bower install reveal.js
+	$ bower install -S reveal.js
 ```
 
 --
