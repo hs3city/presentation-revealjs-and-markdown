@@ -57,6 +57,6 @@ Reveal.addEventListener( 'slidechanged', event =>
 			Particles.clearRain();
 			setTimeout(() => audio.pause(), 1000);
 			Reveal.next();	
-		}, 25000);		
+		}, 20000);		
 	}
 });
